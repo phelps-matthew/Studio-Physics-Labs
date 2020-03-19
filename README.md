@@ -1,5 +1,5 @@
-# Quantitative Lab Notebooks
-Series of self-contained notebooks designed for first sequence undergraduate physics labs. 
+# Quantitative Lab Notebooks (Fundamental of Physics I)
+Series of self-contained notebooks designed for first sequence calc-based undergraduate physics labs. 
 * Impleneted in ipython and Mathematica
 * Interactive curve fitting
 * Ten total labs, based on new experiments
