@@ -6,3 +6,5 @@ Series of self-contained notebooks designed for first sequence undergraduate phy
 * Ten prelabs, to be completed remotely
 * Preprogrammed Capstone files for live measurement display
 * Notebook serves as core teaching medium to be assigned, completed, and graded
+
+_Warning: The GitHub preview of ipython notebooks does not render embedded images appropriately. Open in Google Colabs for proper formatting._
