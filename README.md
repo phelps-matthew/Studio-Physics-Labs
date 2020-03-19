@@ -9,4 +9,4 @@ Series of self-contained notebooks designed for first sequence undergraduate phy
 
 _Warning: The GitHub preview of ipython notebooks does not render embedded images appropriately. Open in Google Colabs for proper formatting._
 
-*Note: GitHub also does not render Mathematica notebooks unfortunately. In the future I may try to host them on my server via Jupyter.
+*Note: Unfortunately, GitHub does not render Mathematica notebooks. In the future they may be viewable by hosting them with Jupyter notebooks.*
